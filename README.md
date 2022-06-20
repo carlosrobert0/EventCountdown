@@ -3,6 +3,9 @@
 ## :memo: Descrição
 Aplicação desenvolvida com React Native utilizando Expo, para contagem regressiva de eventos
 
+![image](https://user-images.githubusercontent.com/45858897/174686476-26246e8b-3cf9-49e3-b40c-6fd253f44d80.png)
+![image](https://user-images.githubusercontent.com/45858897/174686497-e37d9d7e-f5af-4b6b-b02c-c00010f88718.png)
+
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: Listagem de eventos com os dados de titulo do evento, contagem regressiva da data do evento, descrição do evento e opçao de exclusão do evento.
 
