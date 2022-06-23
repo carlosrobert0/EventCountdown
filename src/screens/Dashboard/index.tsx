@@ -57,13 +57,9 @@ export function Dashboard() {
     setIsLoading(false)
   }
 
-  useEffect(() => {
-    loadEvents()
-  }, [data])
-
   useFocusEffect(useCallback(() => {
     loadEvents()
-  }, []))
+  }, [data]))
 
   return (
     <Container>
